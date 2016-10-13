@@ -1,5 +1,12 @@
 Class User{
 	username: u
 	password: p
+	profile_pic: image.jpg
+
+}
+
+Class Post{
+	text: t
+	
 
 }

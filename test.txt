@@ -1,0 +1,5 @@
+Class User{
+	username: u
+	password: p
+
+}

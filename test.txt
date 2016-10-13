@@ -6,7 +6,8 @@ Class User{
 }
 
 Class Post{
-	text: t
+	text: text2
+	photo: image.jpg
 	
 
 }
